@@ -56,7 +56,6 @@ const Reservation = () => {
             try {
                 values.flightData.amount = values.flightData.seating.length;
                 const response = await create(values);
-                console.log(response);
 
                 if(response.status) {
                     toast.success('Reserva pagada');
