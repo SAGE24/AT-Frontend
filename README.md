@@ -12,8 +12,8 @@ Este proyecto frontend está creado con React, Vite y TailwindCSS. La aplicació
 ## Ejecutar en desarrollo
  1. Clonar repositorio
     ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+    git clone https://github.com/tu-usuario/tu-repositorio.git
+    cd tu-repositorio
 
  2. Instalar dependencias:
     ```bash
